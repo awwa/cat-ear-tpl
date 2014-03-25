@@ -15,7 +15,10 @@
    width="100%"
    height="100%"
    sodipodi:docname="cat-ear-tpl.svg"
-   style="fill:none;stroke:none">
+   style="fill:none;stroke:none"
+   inkscape:export-filename="/Users/awwa/github/cat-ear-tpl/cat-ear-tpl.png"
+   inkscape:export-xdpi="89.970001"
+   inkscape:export-ydpi="89.970001">
   <metadata
      id="metadata63">
     <rdf:RDF>
@@ -44,7 +47,7 @@
      id="namedview59"
      showgrid="false"
      inkscape:zoom="0.65555556"
-     inkscape:cx="208.47458"
+     inkscape:cx="486.1017"
      inkscape:cy="360"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -58,6 +61,13 @@
        id="path5"
        inkscape:connector-curvature="0" />
   </clipPath>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3065"
+     width="1055.5933"
+     height="744.40674"
+     x="0"
+     y="1.2131368" />
   <path
      style="fill:#000000;stroke:#808080;stroke-width:8.00000013000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:10;stroke-dasharray:none"
      d="m 0,582.39957 c 1054.0678,0 1054.0678,0 1054.0678,0"
